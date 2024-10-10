@@ -2,7 +2,7 @@
 
 I am Harish M, a current computer science student from [Rajalakshmi Engineering College]([https://utdallas.edu/](https://www.rajalakshmi.org/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harish-M-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishm007/)](https://www.linkedin.com/in/harishm007/)
+[![Linkedin Badge](https://img.shields.io/badge/-HarishM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishm007/)](https://www.linkedin.com/in/harishm007/)
 [![Instagram Badge](https://img.shields.io/badge/-hrshxy_._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hrshxy_._/)](https://www.instagram.com/hrshxy_._/)
 [![Youtube Badge](https://img.shields.io/badge/-Harish_M-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Harish.M)](https://www.youtube.com/@Harish.M)
 [![Gmail Badge](https://img.shields.io/badge/-harish.m.07072005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harish.m.07072005@gmail.com)](mailto:harish.m.07072005@gmail.com)
