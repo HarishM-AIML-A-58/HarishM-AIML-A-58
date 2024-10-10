@@ -4,6 +4,11 @@
   </a>
 </h1>
 
+<h2 align="right">
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_text=MyPageVisitors)
+</h2>
+
+
 I am Harish M, a current computer science student from [Rajalakshmi Engineering College]([https://utdallas.edu/](https://www.rajalakshmi.org/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-HarishM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishm007/)](https://www.linkedin.com/in/harishm007/)
@@ -70,4 +75,3 @@ I am Harish M, a current computer science student from [Rajalakshmi Engineering 
 <hr>
 
 
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_color=red&right_color=green&left_text=Total%20Visitors)
