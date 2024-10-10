@@ -1,12 +1,10 @@
-<h1 align="center">
+<div align="left">
+  <img src="https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_text=MyPageVisitors" alt="visitor badge" style="margin-right: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+HarishM....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+HarishM....;Nice+to+meet+you!&center=false&size=30">
   </a>
-</h1>
+</div>
 
-<h2 align="left">
-  <img src="https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_text=MyPageVisitors" alt="visitor badge">
-</h2>
 
 
 I am Harish M, a current computer science student from [Rajalakshmi Engineering College]([https://utdallas.edu/](https://www.rajalakshmi.org/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
