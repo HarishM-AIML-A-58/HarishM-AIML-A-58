@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-<h2 align="right">
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_text=MyPageVisitors)
+<h2 align="left">
+  <img src="https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_text=MyPageVisitors" alt="visitor badge">
 </h2>
 
 
