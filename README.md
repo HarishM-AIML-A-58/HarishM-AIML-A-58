@@ -8,7 +8,7 @@
 
 
 
-I am Harish M, a current computer science student from [Rajalakshmi Engineering College]([https://utdallas.edu/](https://www.rajalakshmi.org/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I'm Harish M, a computer science student at Rajalakshmi Engineering College, passionate about technology and an advocate for open-source. I’m always excited to collaborate on innovative projects and disruptive ideas. Let’s connect and create something amazing together!
 
 [![Linkedin Badge](https://img.shields.io/badge/-HarishM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harishm007/)](https://www.linkedin.com/in/harishm007/)
 [![Instagram Badge](https://img.shields.io/badge/-hrshxy_._-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hrshxy_._/)](https://www.instagram.com/hrshxy_._/)
