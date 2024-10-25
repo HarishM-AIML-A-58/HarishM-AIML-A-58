@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+HarishM....;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <img src="https://visitor-badge.lithub.cc/badge?page_id=HarishM-AIML-A-58.visitor-badge&left_color=red&right_color=green&left_text=Total%20Visitors" alt="visitor badge" style="margin-left: 20px;">
 </h1>
 
 
