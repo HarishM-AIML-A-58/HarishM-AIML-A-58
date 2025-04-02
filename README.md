@@ -55,11 +55,7 @@ I'm Harish M, a computer science student at Rajalakshmi Engineering College, pas
   <div align=center>
     <a href="https://github.com/HarishM-AIML-A-58">
   <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HarishM-AIML-A-58&theme=react&border=61dafb&hide_border=true" alt="Harish M's Streak Stats" />
-</a>
-    
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HarishM-AIML-A-58&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+  </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
