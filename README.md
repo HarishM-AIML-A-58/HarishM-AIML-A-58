@@ -44,9 +44,10 @@ I'm Harish M, a computer science student at Rajalakshmi Engineering College, pas
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=HarishM-AIML-A-58&theme=react-dark&bg_color=20232a&hide_border=true")
 ![](https://github-readme-stats.vercel.app/api?username=HarishM-AIML-A-58&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishM-AIML-A-58&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HarishM-AIML-A-58&theme=dark&hide_border=false)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=HarishM-AIML-A-58&theme=react-dark&bg_color=20232a&hide_border=true")
+
 
 
